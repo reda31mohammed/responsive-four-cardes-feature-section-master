@@ -104,8 +104,8 @@ h3 {
 
 @media (min-width: 850px) {
   .container {
-    min-width: 80%;
-    /* place-self: center; */
+    max-width: 80%;
+    place-self: center;
   }
   .text-zone {
     max-width: 60%;
